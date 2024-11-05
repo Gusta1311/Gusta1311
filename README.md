@@ -45,5 +45,5 @@
 <br/><br/>
 
 # 📊 GitHub Stats:
-![Gusta1311/Gusta1311 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusta1311&hide_border=false&include_all_commits=true&rank_icon=github&theme=react&hide=contribs) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta1311&theme=react&hide_border=false&include_all_commits=true&layout=compact&hide=css)
+![](https://github-readme-stats.vercel.app/api?username=Gusta1311&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta1311&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
