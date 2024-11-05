@@ -12,7 +12,7 @@
 <div align="center"><h3>Frontend</h3></div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,react,vue&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="25%">
