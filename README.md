@@ -28,7 +28,7 @@
 <div align="center"><h3>Database</h3></div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,sql&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=python,postgresql&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="25%">
@@ -36,7 +36,7 @@
 <div align="center"><h3>Tools</h3></div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,postman,obsidian,figma&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=docker,figma&theme=dark&perline=3" />
 </p>
 
 
