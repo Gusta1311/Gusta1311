@@ -1,5 +1,5 @@
 # Hey, what’s up? I am Gustavo Carvalho 🖖:
-<br>• 💼 I’m currently working on FullStack development<br>• 👨🏻‍💻 I’m currently learning Python and PHP<br>• 🖥️ I’m looking to collaborate on Back-End Projects<br>• 🤔 I’m looking for help with Python adn PHP<br>• 🤖 Developer: A machine that turns coffee into code.
+<br>• 💼 I’m currently working on FullStack development<br>• 👨🏻‍💻 I’m currently learning Python and PHP<br>• 🖥️ I’m looking to collaborate on Back-End Projects<br>• 🤔 I’m looking for help with Python and PHP<br>• 🤖 Developer: A machine that turns coffee into code.
 
 # 📫 Connect With Me
 
