@@ -12,7 +12,7 @@
 <div align="center"><h3>Frontend</h3></div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="25%">
@@ -20,7 +20,7 @@
 <div align="center"><h3>Backend</h3></div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark&perline=2" />
 </p>
 
 </td><td valign="top" width="25%">
